@@ -8,7 +8,7 @@ static const Block blocks[] = {
 
 	{" 🔊 ", "/home/ajrv/.config/dwmblocks/scripts/volume",			2,		            10},
 
-	{" 🕑 ", "/home/ajrv/.config/dwmblocks/scripts/clock",			5,		            0},
+	{"", "/home/ajrv/.config/dwmblocks/scripts/time",			30,		            11},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
